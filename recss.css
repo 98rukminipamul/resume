@@ -1,0 +1,38 @@
+h2{
+    font-family:inherit;
+    font-size: 30px;
+    color: darkblue;
+    text-shadow: 2px 2px 2px red;
+}
+
+h2{
+    text-align: center;
+    color: white;
+    border-radius: 10px;
+}
+table{
+    border-style:solid; padding:15px;
+    border-radius: 25px;
+}
+p:hover{
+    background-color: gainsboro;
+    border-radius: 10px;box-shadow: 10px 10px 5px grey;
+}
+
+ul:hover{
+    background-color: gainsboro;
+    border-radius: 10px;
+   /* box-shadow: 10px 10px 5px grey;*/
+}
+ol:hover{
+    background-color: gainsboro;
+    border-radius: 10px;box-shadow: 10px 10px 5px grey;
+}
+h:hover{
+    background-color: gainsboro;
+    border-radius: 10px;box-shadow: 10px 10px 5px grey;
+}
+table:hover{
+    /*box-shadow: 10px 10px 5px grey;*/
+    background-color: #fcfcfc;
+}
